@@ -1,7 +1,2 @@
-acryldata/datahub-actions:0.13.3.6
-acryldata/datahub-frontend-react:0.13.3.6
-acryldata/datahub-gms:0.13.3.6
-acryldata/datahub-upgrade:0.13.3.6
-acryldata/datahub-elasticsearch-setup:0.13.3.6
-acryldata/datahub-kafka-setup:0.13.3.6
-acryldata/datahub-mysql-setup:0.13.3.6
+acryldata/datahub-upgrade:0.13.3
+acryldata/datahub-mysql-setup:0.13.3
