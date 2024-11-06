@@ -1,7 +1,1 @@
-acryldata/datahub-frontend-react:v0.13.3.6
-acryldata/datahub-gms:v0.13.3.6
-acryldata/datahub-upgrade:v0.13.3.6
-acryldata/datahub-elasticsearch-setup:v0.13.3.6
-acryldata/datahub-kafka-setup:v0.13.3.6
-acryldata/datahub-mysql-setup:v0.13.3.6
-acryldata/datahub-actions:v0.13.3.6
+flink:1.19.1-java8
