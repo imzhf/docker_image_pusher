@@ -1,1 +1,1 @@
-flink:1.19.1-java8
+dinkydocker/dinky:1.1.0-flink1.19
