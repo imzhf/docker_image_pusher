@@ -1,1 +1,1 @@
-dinkydocker/dinky:1.2.0-flink1.19
+dinkydocker/dinky-standalone-server:1.2.0-flink1.19
